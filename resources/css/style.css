@@ -3,7 +3,45 @@ body {
   text-align: center;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+
 .landing {
   background-image: url("../images/the-flatiron-building.png");
-  /** background-color: #cccccc; **/
+  color: white;
+}
+
+.landing h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+
+#design-location {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
